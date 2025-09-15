@@ -88,7 +88,7 @@ frontend-new/
 
 ## 👨‍💻 Autores
 Proyecto desarrollado como ejercicio académico por:  
-**Sebastián Gutiérrez**
+**Sebastián Gutiérrez Pineda**
 
 ---
 
