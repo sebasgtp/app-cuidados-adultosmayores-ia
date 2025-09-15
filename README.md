@@ -15,6 +15,20 @@ Este proyecto fue diseñado como parte de un ejercicio académico para demostrar
 ---
 
 ## 🚀 Instalación y configuración
+### 0. Requisitos previos
+
+Antes de continuar, asegúrate de tener instalado Node.js en tu sistema y que el comando npm funcione correctamente en tu terminal.
+
+Descargar Node.js: https://nodejs.org/
+ (recomendado LTS)
+
+Verificar instalación en terminal/PowerShell:
+
+node -v
+npm -v
+
+
+Si no ves las versiones, revisa que Node.js esté agregado al PATH o sigue los pasos de instalación recomendados para Windows/macOS/Linux.
 
 ### 1. Clonar el repositorio
 ```bash
